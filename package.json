@@ -1,0 +1,21 @@
+{
+  "name": "atividades-tic-hub-fullstack",
+  "version": "1.0.0",
+  "description": "Repositório para organizar os estudos diários da residência TIC, separado por módulos:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisioSouza/atividades-tic-hub-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LisioSouza/atividades-tic-hub-fullstack/issues"
+  },
+  "homepage": "https://github.com/LisioSouza/atividades-tic-hub-fullstack#readme"
+}
