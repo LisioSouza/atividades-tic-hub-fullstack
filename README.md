@@ -1,4 +1,4 @@
- # 📚 Diário de Bordo | Atividades e Estudos - Residência TIC
+ # 📚 Diário de Bordo | Atividades e Estudos - Residência TIC 12
 
 > Repositório dedicado a armazenar exercícios práticos, rascunhos de código e desafios diários realizados durante a formação tecnológica.
 
